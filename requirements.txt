@@ -1,0 +1,5 @@
+flet==0.23.2
+supabase==2.3.4
+gotrue==2.4.2
+httpx==0.25.2
+pydantic==1.10.13
